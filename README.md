@@ -5,4 +5,4 @@ Hi guys,
 
 I am a noob here starting my code trip.
 
-³æ¾÷ª©´ú¸Õ
+// English only here.
